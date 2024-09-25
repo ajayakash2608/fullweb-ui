@@ -1,0 +1,569 @@
+[
+    {
+      "id": 1,
+      "name": "Excavator",
+      "category": "Construction Equipment",
+      "image": "https://m.media-amazon.com/images/I/51EHjLCocsL._SX300_SY300_QL70_FMwebp_.jpg",
+      "pricePerDay": 12000,
+      "rating": 4,
+      "reviews": []
+    },
+    {
+      "id": 2,
+      "name": "Bulldozer",
+      "category": "Construction Equipment",
+      "image": "https://m.media-amazon.com/images/I/61H1xOsTb9L._SX300_SY300_QL70_FMwebp_.jpg",
+      "pricePerDay": 15000,
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "name": "Backhoe Loader",
+      "category": "Construction Equipment",
+      "image": "https://m.media-amazon.com/images/I/81I3MnyRl4L._SX300_SY300_QL70_FMwebp_.jpg",
+      "pricePerDay": 13000,
+      "rating": 4.5
+    },
+    {
+      "id": 4,
+      "name": "Dump Truck",
+      "category": "Construction Equipment",
+      "image": "https://m.media-amazon.com/images/I/81y6H5xw8VL._SX300_SY300_QL70_FMwebp_.jpg",
+      "pricePerDay": 14000,
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "name": "Concrete Mixer",
+      "category": "Construction Equipment",
+      "image": "https://m.media-amazon.com/images/I/81F7Gbih6tL._SX300_SY300_QL70_FMwebp_.jpg",
+      "pricePerDay": 10000,
+      "rating": 3.5
+    },
+    {
+      "id": 6,
+      "name": "Forklift",
+      "category": "Construction Equipment",
+      "image": "https://m.media-amazon.com/images/I/61G6T-5SQwL._SX300_SY300_QL70_FMwebp_.jpg",
+      "pricePerDay": 11000,
+      "rating": 4.2
+    },
+    {
+      "id": 7,
+      "name": "Scissor Lift",
+      "category": "Construction Equipment",
+      "image": "https://m.media-amazon.com/images/I/71VYaB6F4AL._SX300_SY300_QL70_FMwebp_.jpg",
+      "pricePerDay": 9000,
+      "rating": 4.3
+    },
+    {
+      "id": 8,
+      "name": "Telehandler",
+      "category": "Construction Equipment",
+      "image": "https://m.media-amazon.com/images/I/71TB7KiYPtL._SX300_SY300_QL70_FMwebp_.jpg",
+      "pricePerDay": 12500,
+      "rating": 4.8
+    },
+    {
+      "id": 9,
+      "name": "Paver",
+      "category": "Construction Equipment",
+      "image": "https://m.media-amazon.com/images/I/81WbK3OY8RL._SX300_SY300_QL70_FMwebp_.jpg",
+      "pricePerDay": 16000,
+      "rating": 4.6
+    },
+    {
+      "id": 10,
+      "name": "Asphalt Roller",
+      "category": "Construction Equipment",
+      "image": "https://m.media-amazon.com/images/I/61AvnDjVSeL._SX300_SY300_QL70_FMwebp_.jpg",
+      "pricePerDay": 15000,
+      "rating": 4.1
+    },
+    {
+        "id": 11,
+        "name": "Excavator Attachments",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/81KIfPhhzvL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 8000,
+        "rating": 4.5
+      },
+      {
+        "id": 12,
+        "name": "Road Roller",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/61H6hVh4HQL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 13500,
+        "rating": 4.7
+      },
+      {
+        "id": 13,
+        "name": "Mini Excavator",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/81f8NHMMw0L._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 11000,
+        "rating": 4.4
+      },
+      {
+        "id": 14,
+        "name": "Generator",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/61f3gqJYJPL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 9000,
+        "rating": 4.2
+      },
+      {
+        "id": 15,
+        "name": "Concrete Pump",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/71WZZQR6JHL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 14000,
+        "rating": 4.6
+      },
+      {
+        "id": 16,
+        "name": "Forklift Attachments",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/71+7nM1S3sL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 7500,
+        "rating": 4.3
+      },
+      {
+        "id": 17,
+        "name": "Vibratory Plate Compactor",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/81TtG29BDbL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 6000,
+        "rating": 4.1
+      },
+      {
+        "id": 18,
+        "name": "Site Dumper",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/71KFFe62G5L._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 9500,
+        "rating": 4.4
+      },
+      {
+        "id": 19,
+        "name": "Crane",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/71-APMRQ1cL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 20000,
+        "rating": 4.9
+      },
+      {
+        "id": 20,
+        "name": "Telescopic Handler",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/71fFHYKDRNL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 17000,
+        "rating": 4.5
+      },{
+        "id": 21,
+        "name": "Skid Steer Loader",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/81Z4hLX7nIL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 15000,
+        "rating": 4.6
+      },
+      {
+        "id": 22,
+        "name": "Backhoe Loader",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/81kBMR8UwlL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 16000,
+        "rating": 4.7
+      },
+      {
+        "id": 23,
+        "name": "Telehandler",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/71WOf7PCUFL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 18000,
+        "rating": 4.5
+      },
+      {
+        "id": 24,
+        "name": "Excavator Bucket",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/61gKZh9GgFL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 4000,
+        "rating": 4.4
+      },
+      {
+        "id": 25,
+        "name": "Tiller",
+        "category": "Gardening Equipment",
+        "image": "https://m.media-amazon.com/images/I/81XRX0W64fL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 3000,
+        "rating": 4.3
+      },
+      {
+        "id": 26,
+        "name": "Lawn Mower",
+        "category": "Gardening Equipment",
+        "image": "https://m.media-amazon.com/images/I/71uMJ4bUGVL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 2000,
+        "rating": 4.6
+      },
+      {
+        "id": 27,
+        "name": "Chainsaw",
+        "category": "Gardening Equipment",
+        "image": "https://m.media-amazon.com/images/I/61OabSloZ5L._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 2500,
+        "rating": 4.5
+      },
+      {
+        "id": 28,
+        "name": "Hedge Trimmer",
+        "category": "Gardening Equipment",
+        "image": "https://m.media-amazon.com/images/I/71i7IzJZuRL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 1500,
+        "rating": 4.2
+      },
+      {
+        "id": 29,
+        "name": "Pressure Washer",
+        "category": "Cleaning Equipment",
+        "image": "https://m.media-amazon.com/images/I/71JkXSokucL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 3500,
+        "rating": 4.4
+      },
+      {
+        "id": 30,
+        "name": "Carpet Cleaner",
+        "category": "Cleaning Equipment",
+        "image": "https://m.media-amazon.com/images/I/71puGSmKkuL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 4500,
+        "rating": 4.3
+      },
+      {
+        "id": 31,
+        "name": "Floor Scrubber",
+        "category": "Cleaning Equipment",
+        "image": "https://m.media-amazon.com/images/I/61hx8-3edNL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 5000,
+        "rating": 4.5
+      },
+      {
+        "id": 32,
+        "name": "Vacuum Cleaner",
+        "category": "Cleaning Equipment",
+        "image": "https://m.media-amazon.com/images/I/71+S9zFLR9L._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 3000,
+        "rating": 4.6
+      },
+      {
+        "id": 33,
+        "name": "Forklift",
+        "category": "Material Handling",
+        "image": "https://m.media-amazon.com/images/I/81o55E9i5FL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 12000,
+        "rating": 4.8
+      },
+      {
+        "id": 34,
+        "name": "Pallet Jack",
+        "category": "Material Handling",
+        "image": "https://m.media-amazon.com/images/I/71jXWJ3oYkL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 4000,
+        "rating": 4.4
+      },
+      {
+        "id": 35,
+        "name": "Scissor Lift",
+        "category": "Material Handling",
+        "image": "https://m.media-amazon.com/images/I/81ki09ydVoL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 17000,
+        "rating": 4.7
+      },
+      {
+        "id": 36,
+        "name": "Aerial Work Platform",
+        "category": "Material Handling",
+        "image": "https://m.media-amazon.com/images/I/71diZX3+zBL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 20000,
+        "rating": 4.6
+      },
+      {
+        "id": 37,
+        "name": "Construction Hoist",
+        "category": "Material Handling",
+        "image": "https://m.media-amazon.com/images/I/71eBi21F-oL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 19000,
+        "rating": 4.5
+      },
+      {
+        "id": 38,
+        "name": "Concrete Mixer",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/81nqX8kt2WL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 11000,
+        "rating": 4.3
+      },
+      {
+        "id": 39,
+        "name": "Compactor",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/61i0-l2ziYL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 8000,
+        "rating": 4.2
+      },
+      {
+        "id": 40,
+        "name": "Asphalt Paver",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/61zfxTpH68L._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 17000,
+        "rating": 4.5
+      },
+      {
+        "id": 41,
+        "name": "Dump Truck",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/81HRGhHj6eL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 15000,
+        "rating": 4.6
+      },
+      {
+        "id": 42,
+        "name": "Bully Grader",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/81MNE4+AIxL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 16000,
+        "rating": 4.4
+      },
+      {
+        "id": 43,
+        "name": "Rubble Master",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/81fYPOsLOiL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 20000,
+        "rating": 4.8
+      },
+      {
+        "id": 44,
+        "name": "Trommel Screen",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/81Pa6UDMnBL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 19000,
+        "rating": 4.7
+      },
+      {
+        "id": 45,
+        "name": "Drilling Rig",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/61zZqDafAtL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 25000,
+        "rating": 4.9
+      },
+      {
+        "id": 46,
+        "name": "Excavator",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/71x1BJo5W2L._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 22000,
+        "rating": 4.6
+      },
+      {
+        "id": 47,
+        "name": "Trencher",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/81NeiPBWB7L._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 14000,
+        "rating": 4.5
+      },
+      {
+        "id": 48,
+        "name": "Hydraulic Breaker",
+        "category": "Construction Equipment",
+        "image": "https://m.media-amazon.com/images/I/71cAVWbPijL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 9000,
+        "rating": 4.4
+      },
+      {
+        "id": 49,
+        "name": "Forklift Attachments",
+        "category": "Material Handling",
+        "image": "https://m.media-amazon.com/images/I/81c6UtF7HgL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 6000,
+        "rating": 4.3
+      },
+      {
+        "id": 50,
+        "name": "Pallet Racking System",
+        "category": "Material Handling",
+        "image": "https://m.media-amazon.com/images/I/81jQzkX3pSL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 5000,
+        "rating": 4.5
+      },
+      {
+        "id": 51,
+        "name": "Warehouse Shelving",
+        "category": "Material Handling",
+        "image": "https://m.media-amazon.com/images/I/81ldc+urQeL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 4000,
+        "rating": 4.4
+      },
+      {
+        "id": 52,
+        "name": "Cargo Net",
+        "category": "Material Handling",
+        "image": "https://m.media-amazon.com/images/I/81oI4rrrUML._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 2000,
+        "rating": 4.6
+      },
+      {
+        "id": 53,
+        "name": "Material Lift",
+        "category": "Material Handling",
+        "image": "https://m.media-amazon.com/images/I/61FLFRSk36L._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 8000,
+        "rating": 4.3
+      },
+      {
+        "id": 54,
+        "name": "Floor Jack",
+        "category": "Material Handling",
+        "image": "https://m.media-amazon.com/images/I/71RvYJ9RWzL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 1000,
+        "rating": 4.2
+      },
+      {
+        "id": 55,
+        "name": "Lifting Straps",
+        "category": "Material Handling",
+        "image": "https://m.media-amazon.com/images/I/81W5u9e4cXL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 500,
+        "rating": 4.1
+      },
+      {
+        "id": 56,
+        "name": "Fall Protection Harness",
+        "category": "Safety Equipment",
+        "image": "https://m.media-amazon.com/images/I/71iW+NMXFCL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 1200,
+        "rating": 4.5
+      },
+      {
+        "id": 57,
+        "name": "Safety Glasses",
+        "category": "Safety Equipment",
+        "image": "https://m.media-amazon.com/images/I/81pAydA27IL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 300,
+        "rating": 4.6
+      },
+      {
+        "id": 58,
+        "name": "Ear Protection",
+        "category": "Safety Equipment",
+        "image": "https://m.media-amazon.com/images/I/71XZ8sAA2xL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 400,
+        "rating": 4.3
+      },
+      {
+        "id": 59,
+        "name": "Respirator Mask",
+        "category": "Safety Equipment",
+        "image": "https://m.media-amazon.com/images/I/71yT9uSgndL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 600,
+        "rating": 4.7
+      },
+      {
+        "id": 60,
+        "name": "Steel Toe Boots",
+        "category": "Safety Equipment",
+        "image": "https://m.media-amazon.com/images/I/81D8fQiAowL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 900,
+        "rating": 4.5
+      },
+      {
+        "id": 61,
+        "name": "Hard Hat",
+        "category": "Safety Equipment",
+        "image": "https://m.media-amazon.com/images/I/81FwiPobgkL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 500,
+        "rating": 4.4
+      },
+      {
+        "id": 62,
+        "name": "Fire Extinguisher",
+        "category": "Safety Equipment",
+        "image": "https://m.media-amazon.com/images/I/81dHMQJb5fL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 1200,
+        "rating": 4.8
+      },
+      {
+        "id": 63,
+        "name": "First Aid Kit",
+        "category": "Safety Equipment",
+        "image": "https://m.media-amazon.com/images/I/61dm6YKoH0L._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 800,
+        "rating": 4.3
+      },
+      {
+        "id": 64,
+        "name": "Traffic Cones",
+        "category": "Safety Equipment",
+        "image": "https://m.media-amazon.com/images/I/81EdVRLwCeL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 300,
+        "rating": 4.4
+      },
+      {
+        "id": 65,
+        "name": "Safety Barrier",
+        "category": "Safety Equipment",
+        "image": "https://m.media-amazon.com/images/I/81GuR3fz7xL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 500,
+        "rating": 4.2
+      },
+      {
+        "id": 66,
+        "name": "Portable Toilet",
+        "category": "Restroom Equipment",
+        "image": "https://m.media-amazon.com/images/I/81wKBLMA6hL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 1500,
+        "rating": 4.5
+      },
+      {
+        "id": 67,
+        "name": "Hand Washing Station",
+        "category": "Restroom Equipment",
+        "image": "https://m.media-amazon.com/images/I/71jWMsJ1R3L._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 1000,
+        "rating": 4.4
+      },
+      {
+        "id": 68,
+        "name": "Sani Station",
+        "category": "Restroom Equipment",
+        "image": "https://m.media-amazon.com/images/I/71gGH00gIbL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 1200,
+        "rating": 4.6
+      },{
+        "id": 68,
+        "name": "Sani Station",
+        "category": "Restroom Equipment",
+        "image": "https://m.media-amazon.com/images/I/71gGH00gIbL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 1200,
+        "rating": 4.6
+      },
+      {
+        "id": 69,
+        "name": "Portable Shower",
+        "category": "Restroom Equipment",
+        "image": "https://m.media-amazon.com/images/I/61ZqgPfMEFL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 1700,
+        "rating": 4.5
+      },
+      {
+        "id": 70,
+        "name": "Privacy Stall",
+        "category": "Restroom Equipment",
+        "image": "https://m.media-amazon.com/images/I/71DbtFflFCL._SX300_SY300_QL70_FMwebp_.jpg",
+        "pricePerDay": 800,
+        "rating": 4.3
+      }
+    ]
